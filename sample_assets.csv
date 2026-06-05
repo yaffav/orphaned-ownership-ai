@@ -1,0 +1,6 @@
+SystemName,Vendor,BusinessOwner,TechnicalOwner,LastLoginDays,MonthlyCost,Status
+Priority ERP,Priority,,IT Team,180,3500,Active
+Legacy CRM,OldSoft,,IT Team,420,1200,Active
+Archive Portal,Internal,Finance,IT Team,730,0,Inactive
+Supplier API,VendorX,,Integration Team,250,800,Active
+HR Reports,Power BI,HR,BI Team,12,300,Active
