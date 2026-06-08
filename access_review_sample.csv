@@ -1,0 +1,19 @@
+User	Department	EmploymentType	System	permission	LastActivityDays	PeerCount	RiskHint
+David	Finance	Employee	Priority	Admin	180	1	
+Sarah	IT	Employee	GitHub	Write	210	5	
+Moshe	IT	Contractor	GitHub	Admin	15	1	
+Rachel	Finance	Employee	CRM	Admin	45	0	
+Noa	Finance	Employee	Power BI	Read	1	16	
+Yossi	Sales	Employee	CRM	Write	3	5	
+Yossi	Sales	Employee	Power BI	Read	5	14	
+Maya	HR	Employee	SharePoint	Read	1	20	
+Maya	HR	Employee	HR Portal	Write	4	8	
+Daniel	IT	Employee	GitHub	Admin	3	5	
+Daniel	IT	Employee	Azure	Admin	2	4	
+Ruth	Procurement	Employee	Supplier Portal	Write	6	7	
+Ruth	Procurement	Employee	SharePoint	Read	2	20	
+Avi	Finance	Employee	Priority	Read	1	18	
+Avi	Finance	Employee	Power BI	Read	3	16	
+Sharon	Sales	Employee	CRM	Read	2	14	
+Sharon	Sales	Employee	Teams Admin	Admin	1	3	
+Lior	IT	Employee	GitHub	Write	2	5	
